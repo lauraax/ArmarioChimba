@@ -1,0 +1,16 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Interface.java to edit this template
+ */
+package armario;
+
+/**
+ *
+ * @author estudiantes
+ */
+public interface ControladorSeleccionarVestimenta {
+    void seleccionarCamiseta();
+    void seleccionarPantalon();
+    void seleccionarZapatos();
+            
+}
